@@ -1,0 +1,4 @@
+1::LH2560::Birmingham::Munich::2020-11-25::200::45.0::false::
+2::LA6854::London::Paris::2020-12-30::150::200.0::true::
+3::MPX785::Milan::Birmingham::2021-12-01::1::50.0::false::
+4::LO1234::london::milan::2020-12-12::2::20.0::false::

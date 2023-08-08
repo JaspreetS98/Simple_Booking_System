@@ -1,0 +1,6 @@
+1::jaspreet::012345678::jaspreet@gmail.com::false::
+2::roheel::098765432::roheel@gmail.com::false::
+3::joe::012349875::joe@gmail.com::false::
+4::tommy::111222333::tommy@gmail.com::true::
+5::amy::999666000::amy@mail.com::true::
+6::rocky::123456789::rocky@mail.com::true::
